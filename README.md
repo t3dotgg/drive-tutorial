@@ -10,6 +10,6 @@
 
 ## 1-27-2025
 
-- [ ] Change folders to link components, remove all client state
+- [x] Change folders to link components, remove all client state
 - [ ] Clean up the database and data fetching patterns
 - [ ] Real homepage
